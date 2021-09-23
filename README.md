@@ -1,4 +1,4 @@
-# picture_recognizer_VGG16
+# Picture recognizer with VGG16
 
 ## Description
 
